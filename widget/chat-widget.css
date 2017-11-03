@@ -4,7 +4,7 @@
 
 ._concierge_title {
 	height: 30px;
-	background: #5aaafa;
+	background: #e60101;
 }
 
 ._concierge_title img {
@@ -15,7 +15,7 @@
 ._concierge_title p {
 	margin: 0;
 	padding: 5px 0 0 5px;
-	color: #03274b;
+	color: #343434;
 	font-weight: bold;
 	width: 200px;
 }
@@ -25,7 +25,7 @@
 	border-top-left-radius: 6px;
 	border-top-right-radius: 6px;
 	border-bottom: 0px;
-	background: #e8f1fa;
+	background: #ebebeb;
 	height: 350px;
 	width: 250px;
 	position: fixed;
