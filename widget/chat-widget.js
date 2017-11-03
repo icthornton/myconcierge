@@ -60,7 +60,7 @@ function Concierge(opts) {
 
     // create the elements for the ID screen
     var id_div = $("<div>", { class: "_concierge_chat_id_screen", id: "_concierge_chat_id_screen"})
-    var welcome = $("<p>").text("Welcome to Concierge, click 'Get Started' to speak to someone")
+    var welcome = $("<p>").text("Hi there, I am TOBi, click 'Get Started' to speak to someone")
     var name_button = $("<button>", { name: "_concierge_chat_name_submit", id: "_concierge_chat_name_submit", type: "button" }).text("Get Started!")
 
     // add these elements
