@@ -47,8 +47,8 @@ function Concierge(opts) {
 
     // title bar
     var title_bar = $("<div>", { class: "_concierge_title" });
-    var title_text = $("<p>", { class: "_concierge_title_text" }).text("TOBi")
-    var min = $("<img>", { src: _concierge_chat_host + "/min.png" })
+    var title_text = $("<p>", { class: "_concierge_title_text" }).text("Ask TOBi")
+    var min = $("<img>", { src: _concierge_chat_host + "/TOBi.png" })
     title_bar.append(min);
     title_bar.append(title_text);
     this.container.append(title_bar);
